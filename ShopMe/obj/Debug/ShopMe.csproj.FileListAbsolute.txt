@@ -1,0 +1,13 @@
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\bin\Debug\ShopMe.exe.config
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\bin\Debug\ShopMe.exe
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\bin\Debug\ShopMe.pdb
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.csproj.AssemblyReference.cache
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.Properties.Resources.resources
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.csproj.GenerateResource.cache
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.csproj.CoreCompileInputs.cache
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.exe
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.pdb
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.Login.resources
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.Main.resources
+C:\Users\jaiun\Desktop\Projets\Blather\ShopMe\ShopMe\obj\Debug\ShopMe.Add.resources
