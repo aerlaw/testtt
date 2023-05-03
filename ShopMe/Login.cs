@@ -43,7 +43,7 @@ namespace ShopMe
         // Bouton connexion login
         private void button1_Click(object sender, EventArgs e)
         {
-            string username, password;
+            /*string username, password;
 
             username = textBox1.Text;
             password = textBox2.Text;
@@ -83,6 +83,27 @@ namespace ShopMe
             finally
             {
                 conn.Close();
+            }*/
+            string username = textBox1.Text;
+            string password = textBox2.Text;
+
+            using (SqlConnection connection = new SqlConnection("connectionString"))
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("SELECT COUNT(*) FROM Table WHERE Username=@Username AND Password=@Password", connection);
+                command.Parameters.AddWithValue("@Username", username);
+                command.Parameters.AddWithValue("@Password", password);
+                int result = (int)command.ExecuteScalar();
+                if (result > 0)
+                {
+                    Main mainForm = new Main();
+                    mainForm.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Le nom d'utilisateur ou le mot de passe est incorrect.");
+                }
             }
         }
 
